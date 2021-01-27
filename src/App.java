@@ -25,7 +25,8 @@ public class App {
                 case 3: checkType();
                         break;
                 
-                case 4: break;
+                case 4: System.out.println("Good Luck Network Admin");
+                        break;
 
                 default: System.out.println("WRONG INPUT TRY AGAIN");
                          break;
